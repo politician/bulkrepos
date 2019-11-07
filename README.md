@@ -2,6 +2,8 @@
 
 Bulk publicize, privatize, clone and delete repos for a personal Github account or an organization
 
+![Screenshot](https://user-images.githubusercontent.com/3155568/68415503-19210180-01c5-11ea-96ba-b5a99eb452ac.png)
+
 ## Install
 
 ```sh
