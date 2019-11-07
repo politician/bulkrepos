@@ -1,0 +1,20 @@
+{
+  "name": "bulkrepos",
+  "version": "0.0.1",
+  "description": "Bulk publicize, privatize, clone and delete repos for a personal Github account or an organization",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iRomain/bulkrepos.git"
+  },
+  "readme": "https://github.com/iRomain/bulkrepos/blob/master/README.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Romain Barissat",
+  "license": "ISC",
+  "dependencies": {
+    "graphql-request": "^1.8.2",
+    "isomorphic-git": "^0.70.4"
+  }
+}
